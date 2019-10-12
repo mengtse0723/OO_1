@@ -50,7 +50,11 @@
 ### Users story：
      * 我是一個會員使用者，想要透過該系統查詢快速有用的股市資訊
 
+### 初步類別圖：
 
+![diagram](案例圖.jpg)
+![diagram](案例圖.jpg)
+![diagram](案例圖.jpg)
 
 
 
