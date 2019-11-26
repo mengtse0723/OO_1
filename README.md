@@ -124,7 +124,7 @@
 
 ![NKFUST](nkfust.jpg "第一科大")
 
-=====================
+```
 abstract class Cshap{
     protected String color;
     public void setColor(String str){
@@ -154,3 +154,4 @@ class Main{
         triangle.show();
     }
 }
+```
